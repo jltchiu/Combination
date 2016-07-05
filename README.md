@@ -1,5 +1,7 @@
 # System Combination
 
+This is the script used for System Combination reported in the work: "Features for Search and Understanding ofNoisy Conversational Speech"
+
 
 ```
 USAGE: syscomb.py <language code> <corpus (dev|eval)> <kwlist id (dev|eval)>

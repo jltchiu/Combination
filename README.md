@@ -1,5 +1,7 @@
 # System Combination
 
+
+```
 USAGE: syscomb.py <language code> <corpus (dev|eval)> <kwlist id (dev|eval)>
                   <method> <output path> <input files> [--weights <weights>]
      * <method> can be one of the following:
@@ -18,4 +20,4 @@ USAGE: syscomb.py <language code> <corpus (dev|eval)> <kwlist id (dev|eval)>
        Wildcards are accepted.
      * <weights>: Specify weights for each detection list. There must be exactly
        as many weights as input files. If not given, defaults to all ones.
-
+```
